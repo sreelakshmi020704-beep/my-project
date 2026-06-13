@@ -1,2 +1,67 @@
 # my-project
-this is my first project
+# 🏝️ Treasure Island Game
+
+A simple text-based adventure game built with Python where the player navigates through a series of choices in search of hidden treasure.
+
+## 📖 Description
+
+Treasure Island is an interactive command-line game that tests decision-making skills. Players must make the correct choices to reach the treasure while avoiding various game-over scenarios.
+
+The game includes:
+
+* ASCII art welcome screen
+* Multiple decision paths
+* User input handling
+* Conditional game logic
+* Different endings based on player choices
+
+## 🎮 How to Play
+
+1. Run the Python script.
+2. Follow the on-screen instructions.
+3. Make choices by typing the requested options.
+4. Try to find the treasure without getting eliminated.
+
+### Winning Path
+
+To find the treasure:
+
+1. Choose **left** at the crossroads.
+2. Choose **wait** at the lake.
+3. Choose **yellow** door on the island.
+
+
+
+
+
+## ▶️ Running the Game
+
+Make sure Python 3 is installed on your system.
+
+```bash
+python treasure_island.py
+```
+
+
+
+## 📸 Sample Gameplay
+
+```text
+Welcome to Treasure Island
+Your mission is to find the treasure
+
+You are at a crossroads.
+Type "left" or "right": left
+
+You've come to a lake.
+Type "wait" or "swim": wait
+
+There is a house with 3 doors.
+Red, Blue, Yellow
+
+Which colour do you choose?
+yellow
+
+You found the treasure. You win!
+```
+
