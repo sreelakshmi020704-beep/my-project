@@ -100,14 +100,6 @@ You lose!
 
 ---
 
-## Future Improvements
-
-* Add multiple rounds
-* Keep score
-* Add a replay option
-* Create a graphical user interface (GUI)
-* Implement best-of-three mode
-* Add Rock-Paper-Scissors-Lizard-Spock variation
 
 ---
 
