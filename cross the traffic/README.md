@@ -27,7 +27,7 @@ The objective is simple: help the player cross the road while avoiding moving ca
 ```
 Road-Rush/
 │
-├── main.py
+├── carmain.py
 ├── player.py
 ├── car_manager.py
 ├── carscoreboard.py
@@ -40,25 +40,7 @@ Road-Rush/
 * Turtle Graphics
 * Object-Oriented Programming (OOP)
 
-## ▶️ How to Run
 
-1. Clone this repository.
-
-```bash
-git clone https://github.com/your-username/road-rush.git
-```
-
-2. Navigate to the project folder.
-
-```bash
-cd road-rush
-```
-
-3. Run the game.
-
-```bash
-python main.py
-```
 
 ## 🎯 Controls
 
