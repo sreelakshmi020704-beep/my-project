@@ -1,4 +1,4 @@
-# 🇺🇸 U.S. States Game
+# U.S. States Game
 
 A fun Python game built with the **Turtle** graphics library and **Pandas**. The goal is to guess all 50 U.S. states. Each correct guess is displayed on the U.S. map, and if you exit before completing the game, a list of the states you missed is saved for you to study later.
 
